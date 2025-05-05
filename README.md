@@ -17,7 +17,7 @@ This Bash script splits an Audio or M4A audio file into smaller Audio chunks, pr
 
 1.  **Save the script:** Save the script to a file named `mp3_silence_splitter.sh` (or any other name you prefer). E.g. in the folder `/usr/local/sbin`:
     
-      curl -o /usr/local/sbin/mp3_silence_splitter.sh https://raw.githubusercontent.com/rubensmp/mp3-silence-splitter/main/mp3_silence_splitter.sh
+      curl -o /usr/local/sbin/mp3_silence_splitter.sh https://raw.githubusercontent.com/rubo77/audio_silence_splitter.sh/refs/heads/main/mp3_silence_splitter.sh
 
 2.  **Make it executable:**
     
